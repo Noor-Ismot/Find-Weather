@@ -13,4 +13,5 @@ I developed a responsive Weather App using HTML, CSS, and JavaScript that allows
 
 **Challenges Faced:**
 
-One of the challenges I faced was handling errors when the user enters an invalid city name or when the city is not found in the OpenWeatherMap database. I addressed this challenge by implementing error handling mechanisms to display appropriate messages to the user and gracefully handle such scenarios.
+One of the challenges I faced was handling errors when the user entered an invalid city name or when the city is not found in the OpenWeatherMap database. I addressed this challenge by implementing error handling mechanisms to display appropriate messages to the user and gracefully handle such scenarios.<br><br>
+                                                       Copyright © Noor Ismot Ara- All rights reserved
